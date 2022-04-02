@@ -1,5 +1,6 @@
-### Hi there, I'm RuM - aka [Ru44][https://ru44.github.io/]
+### Hi there, I'm RuM - aka [Ru44][https://ru44.github.io]
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCu2v2AQjEURDdP2g_gkDctA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=ru44.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ru44.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RU44_Y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRU44_Y&screen_name=RU44_Y)
