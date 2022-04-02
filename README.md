@@ -1,3 +1,4 @@
+
 # Hi there, I'm RuM 👋
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCu2v2AQjEURDdP2g_gkDctA?logo=youtube&logoColor=red&style=for-the-badge)
@@ -7,13 +8,14 @@
 
 ## I'm a Pro chess player, Grandmaster at Smite, big potato Developer
 
-- 👨‍💻 I'm currently working on a [myPersonalPage]
+- 👨‍💻 I'm currently working on a [myPersonalPage][website]
 - 👶 I'm currently learning Javascript, Python, Rust!
 - 🥅 2022 goals: to master JS, Python, Rust!
 - ⚡ Fun fact: I don't know how to play Ullr!
 
 ### Connect With me
 
+- Feel free to contact me at [Telegram][Telegram]
 
 ### Languages and Tools
 
@@ -33,17 +35,20 @@
 <br />
 <br />
 <br />
-  <summary>:zap: GitHub Stats</summary>
+
+<summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="RuM GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <br /><br />
 <br /><br />
-<br />
-<br />
-<br />
-<br />
+<br /><br />
+<br /><br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru44)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[website]: https://ru44.github.io
+[Telegram]: https://t.me/RuM_Y
 
 
