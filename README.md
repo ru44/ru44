@@ -38,12 +38,8 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-
+[![Ru44 GitHub stats](https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/ru44)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru44)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://ru44.github.io
