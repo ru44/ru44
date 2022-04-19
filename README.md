@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RU44_Y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRU44_Y&screen_name=RU44_Y)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ru44y)
 
-## I'm a Pro chess player, Grandmaster at Smite, big potato Developer
+## Pro chess player, Grandmaster at Smite, big potato Developer
 
 - 👨‍💻 I'm currently working on a [myPersonalPage][website]
 - 👶 I'm currently learning Javascript, Python, Rust!
