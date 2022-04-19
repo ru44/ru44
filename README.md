@@ -46,7 +46,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru44)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru44)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://ru44.github.io
 [Telegram]: https://t.me/RuM_Y
 
