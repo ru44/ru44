@@ -39,7 +39,7 @@
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="RuM GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&theme=radical)
 <br /><br />
 <br /><br />
 <br /><br />
