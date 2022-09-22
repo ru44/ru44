@@ -1,11 +1,10 @@
 
-# [Hello World](https://raw.githubusercontent.com/ru44/How-to-break-the-law/main/HelloWorld.js), I'm RuM 👋
+# [Hello World](https://raw.githubusercontent.com/ru44/How-to-break-the-law/main/HelloWorld.js), I'm RuM <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCu2v2AQjEURDdP2g_gkDctA?logo=youtube&logoColor=red&style=for-the-badge)
 [![Website](https://img.shields.io/website?label=ru44.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ru44.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RU44_Y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRU44_Y&screen_name=RU44_Y)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ru44y)
-[![Github Stars](https://img.shields.io/github/stars/ru44?label=Stars&style=flat)](https://github.com/ru44?tab=repositories)
 
 
 ## Pro chess player, Grandmaster at Smite, big potato Developer
@@ -38,7 +37,9 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
+---
+
+### ⚡ Github Status
 
 [![Ru44 GitHub stats](https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/ru44)
 <br />
@@ -48,5 +49,5 @@
 [Telegram]: https://t.me/RuM_Y
 
 ----
-
+### 👀 Profile Views
 ![Profile views](http://profile-counter.glitch.me/ru44/count.svg)
