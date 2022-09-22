@@ -7,7 +7,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ru44y)
 
 
-## Pro chess player, Grandmaster at Smite, big potato Developer
+## 🏆 Pro chess player, Grandmaster at Smite, big potato Developer
 
 - 👨‍💻 I'm currently working on a [myPersonalPage][website]
 - 👶 I'm currently learning Javascript, Python, Rust!
@@ -15,13 +15,13 @@
 - ⚡ Fun fact: I don't know how to play Ullr!
 
 ---
-### Connect With me
+### 📴 Connect With me
 
 - Feel free to contact me at [Telegram][Telegram]
 
 ---
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -46,6 +46,12 @@
 
 | [![Ru44 GitHub stats](https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/ru44)      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru44&layout=compact&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/ru44) |
 | ----------- | ----------- |
+
+---
+
+#### 🥇 Top Repositories
+ | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ru44&repo=All-In-One-Cli&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ru44&repo=ru44.github.io&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 
