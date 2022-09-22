@@ -5,6 +5,8 @@
 [![Website](https://img.shields.io/website?label=ru44.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ru44.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RU44_Y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRU44_Y&screen_name=RU44_Y)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ru44y)
+[![Github Stars](https://img.shields.io/github/stars/ru44?label=Stars&style=flat)](https://github.com/ru44?tab=repositories)
+
 
 ## Pro chess player, Grandmaster at Smite, big potato Developer
 
@@ -45,4 +47,6 @@
 [website]: https://ru44.github.io
 [Telegram]: https://t.me/RuM_Y
 
+----
 
+![Profile views](http://profile-counter.glitch.me/ru44/count.svg)
