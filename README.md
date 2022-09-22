@@ -14,6 +14,7 @@
 - 🥅 2022 goals: to master JS, Python, Rust!
 - ⚡ Fun fact: I don't know how to play Ullr!
 
+---
 ### Connect With me
 
 - Feel free to contact me at [Telegram][Telegram]
@@ -44,8 +45,7 @@
 ### ⚡ Github Status
 
 [![Ru44 GitHub stats](https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/ru44)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru44&bg_color=09131B&text_color=ffffff)](https://github.com/ru44)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru44&layout=compact&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/ru44)
 
 [website]: https://ru44.github.io
 [Telegram]: https://t.me/RuM_Y
