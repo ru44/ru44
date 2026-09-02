@@ -57,28 +57,6 @@
 | | [<img alt="Vitest" width="26px" src="https://vitest.dev/logo.svg" />](https://vitest.dev/) |  | [<img alt="GraphQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain.svg" />](https://graphql.org/) | | 
 | | [<img alt="Gulp" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gulp/gulp-plain.svg" />](https://gulpjs.com/) |  | | |
 
-
-<br />
-
----
-
-### ⚡ Github Status
-
-| [![Ru44 GitHub stats](https://github-readme-stats.vercel.app/api?username=ru44&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/ru44)      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru44&layout=compact&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/ru44) |
-| ----------- | ----------- |
-
----
-
-#### 🥇 Top Repositories
-
- | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cliuno&repo=core&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ru44&repo=CloudyClipy&show_icons=true&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 [website]: https://ru44.github.io
 [Telegram]: https://t.me/RuM_Y
 
----
-
-### 👀 Profile Views
-
-![Profile views](http://profile-counter.glitch.me/ru44/count.svg)
