@@ -19,7 +19,7 @@ jobs:
         id: pick
         run: |
           week=$((10#$(date -u +%V)))
-          portraits=(glitch terminal decrypt)
+          portraits=(glitch terminal lenticular decrypt)
           statuses=(prompt nmap systemd)
           portrait=${portraits[$((week % ${#portraits[@]}))]}
           # Offset by one so the same two styles do not always appear together.
