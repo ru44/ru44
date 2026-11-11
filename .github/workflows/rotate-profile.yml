@@ -1,0 +1,40 @@
+name: rotate-profile
+
+# Every week, shows a different animated portrait and status terminal on the profile.
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Mondays, 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick this week's portrait and status terminal
+        id: pick
+        run: |
+          week=$((10#$(date -u +%V)))
+          portraits=(glitch terminal decrypt)
+          statuses=(prompt nmap systemd)
+          portrait=${portraits[$((week % ${#portraits[@]}))]}
+          # Offset by one so the same two styles do not always appear together.
+          status=${statuses[$(((week + 1) % ${#statuses[@]}))]}
+          cp "assets/portraits/$portrait.svg" assets/portrait.svg
+          cp "assets/status/$status.svg" assets/status.svg
+          echo "name=$portrait portrait, $status status" >> "$GITHUB_OUTPUT"
+
+      - name: Commit the change
+        run: |
+          if git diff --quiet; then
+            echo "Already showing: ${{ steps.pick.outputs.name }}."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: weekly profile rotation (${{ steps.pick.outputs.name }})"
+          git push
