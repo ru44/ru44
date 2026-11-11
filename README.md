@@ -17,34 +17,14 @@
   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="waving hand" />
 </h2>
 
-```console
-┌──(ru44㉿github)-[~]
-└─$ cat /etc/motd
-
-  !Pro chess player, Grandmaster at Smite, big potato developer.
-
-┌──(ru44㉿github)-[~]
-└─$ ./status --now
-
-  [+] building   the new BlackArch Linux website
-  [+] hacking on my personal page, ru44.github.io
-  [+] learning   Rust
-  [*] goals      master (T,J)S, Rust and GitOps
-  [!] fun fact   RuM does not mean R u M
-```
-
-## `ls ~/projects`
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [blackarch-website](https://github.com/ru44/blackarch-website) | The new website for BlackArch Linux: 15 languages, tools browser, architecture explorer | VitePress, Vue |
-| [CLIuno/core](https://github.com/CLIuno/core) | A CLI to make your journey in web development less painful | TypeScript |
-| [CloudyClipy](https://github.com/ru44/CloudyClipy) | Your own clipboard in the cloud | TypeScript |
-| [wifi-scanner](https://github.com/ru44/wifi-scanner) | Lists nearby Wi-Fi networks on Linux, for when you have the password but not the name | Rust |
-| [note9-nethunter-kernel](https://github.com/ru44/note9-nethunter-kernel) | NetHunter kernel for the Galaxy Note 9 | Shell |
-| [msr90](https://github.com/ru44/msr90) | Card reader for the MSR90 | Shell |
-| [Matrix-Synapse-with-Keycloak-SSO](https://github.com/ru44/Matrix-Synapse-with-Keycloak-SSO) | Matrix Synapse with Keycloak single sign-on | Docker |
-| [eWPT](https://github.com/ru44/eWPT) | eWPT exam notes | Notes |
+<!-- Rotates weekly; edit the text in scripts/build-status.py -->
+<p align="center">
+  <img
+    src="assets/status.svg"
+    width="760"
+    alt="!Pro chess player, Grandmaster at Smite, big potato developer. Building the new BlackArch Linux website, hacking on my personal page ru44.github.io, learning Rust. Goals: master (T,J)S, Rust and GitOps. Fun fact: RuM does not mean R u M."
+  />
+</p>
 
 ## `cat ~/.stats`
 
@@ -94,5 +74,18 @@
   <a href="https://ko-fi.com/ru44y"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
   <a href="https://github.com/sponsors/ru44"><img src="https://img.shields.io/badge/GitHub%20Sponsors-ru44-e60000?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a0a0b" alt="GitHub Sponsors" /></a>
 </p>
+
+## `ls ~/projects`
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [blackarch-website](https://github.com/ru44/blackarch-website) | The new website for BlackArch Linux: 15 languages, tools browser, architecture explorer | VitePress, Vue |
+| [CLIuno/core](https://github.com/CLIuno/core) | A CLI to make your journey in web development less painful | TypeScript |
+| [CloudyClipy](https://github.com/ru44/CloudyClipy) | Your own clipboard in the cloud | TypeScript |
+| [wifi-scanner](https://github.com/ru44/wifi-scanner) | Lists nearby Wi-Fi networks on Linux, for when you have the password but not the name | Rust |
+| [note9-nethunter-kernel](https://github.com/ru44/note9-nethunter-kernel) | NetHunter kernel for the Galaxy Note 9 | Shell |
+| [msr90](https://github.com/ru44/msr90) | Card reader for the MSR90 | Shell |
+| [Matrix-Synapse-with-Keycloak-SSO](https://github.com/ru44/Matrix-Synapse-with-Keycloak-SSO) | Matrix Synapse with Keycloak single sign-on | Docker |
+| [eWPT](https://github.com/ru44/eWPT) | eWPT exam notes | Notes |
 
 <p align="center"><sub><code>[ connection closed by foreign host ]</code></sub></p>
