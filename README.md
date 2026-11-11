@@ -1,10 +1,7 @@
-<!-- Typing header: https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Rotates weekly: see .github/workflows/rotate-portrait.yml and assets/portraits/ -->
 <p align="center">
   <a href="https://ru44.github.io">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=E60000&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=150&lines=%24+nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bru44%5D+from+(you);ru44%40github%3A~%24+whoami;RuM+%2F%2F+push+stealer"
-      alt="$ nc -lvnp 1337 ... ru44@github:~$ whoami: RuM, push stealer"
-    />
+    <img src="assets/portrait.svg" width="720" alt="Animated portrait of RuM: ru44@github, push stealer" />
   </a>
 </p>
 
