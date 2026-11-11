@@ -10,16 +10,20 @@
 
 <p align="center">
   <a href="https://ru44.github.io"><img src="https://img.shields.io/website?label=ru44.github.io&style=for-the-badge&color=e60000&labelColor=0a0a0b&url=https%3A%2F%2Fru44.github.io" alt="Website" /></a>
-  <a href="https://x.com/RU44_Y"><img src="https://img.shields.io/badge/X-RU44__Y-e60000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0b" alt="X" /></a>
+  <a href="https://x.com/RU44_Y"><img src="https://img.shields.io/badge/Follow-RU44__Y-e60000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0b" alt="Follow RU44_Y on X" /></a>
   <img src="https://img.shields.io/badge/Signal-ru44.01-e60000?style=for-the-badge&logo=signal&logoColor=white&labelColor=0a0a0b" alt="Signal username: ru44.01" />
   <img src="https://img.shields.io/github/stars/ru44?style=for-the-badge&logo=github&label=stars&color=e60000&labelColor=0a0a0b" alt="GitHub stars" />
 </p>
+
+<h2 align="center">
+  <a href="https://raw.githubusercontent.com/ru44/How-to-break-the-law/main/HelloWorld.js">Hello World</a>, I'm RuM
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="waving hand" />
+</h2>
 
 ```console
 ┌──(ru44㉿github)-[~]
 └─$ cat /etc/motd
 
-  [Hello World], I'm RuM.
   !Pro chess player, Grandmaster at Smite, big potato developer.
 
 ┌──(ru44㉿github)-[~]
@@ -31,8 +35,6 @@
   [*] goals      master (T,J)S, Rust and GitOps
   [!] fun fact   RuM does not mean R u M
 ```
-
-<sub>The <a href="https://raw.githubusercontent.com/ru44/How-to-break-the-law/main/HelloWorld.js">Hello World</a> is real. Do not read it.</sub>
 
 ## `ls ~/projects`
 
