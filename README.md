@@ -1,4 +1,4 @@
-<!-- Rotates weekly: see .github/workflows/rotate-portrait.yml and assets/portraits/ -->
+<!-- Rotates weekly: see .github/workflows/rotate-profile.yml and assets/portraits/ -->
 <p align="center">
   <a href="https://ru44.github.io">
     <img src="assets/portrait.svg" width="720" alt="Animated portrait of RuM: ru44@github, push stealer" />
